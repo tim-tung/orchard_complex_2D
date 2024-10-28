@@ -12,5 +12,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from jumanji.environments.routing.robot_warehouse.env import RobotWarehouse
+from env import RobotWarehouse
 from jumanji.environments.routing.robot_warehouse.types import Observation, State
